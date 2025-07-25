@@ -1,0 +1,1 @@
+Those are dialogue frames, they are using for Cutscene:Dialogue(), import it to Roblox Studio, and write it as a first argument
